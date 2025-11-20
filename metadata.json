@@ -1,0 +1,5 @@
+{
+  "name": "AeroGraph",
+  "description": "A generative fluid simulation art tool that allows you to paint with digital smoke. Features a realistic fluid dynamics engine and Gemini-powered artwork analysis.",
+  "requestFramePermissions": []
+}
